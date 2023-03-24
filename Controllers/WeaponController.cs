@@ -6,8 +6,6 @@ using System.Threading.Tasks;
 using dotnet_rpg.Dtos.Weapon;
 using dotnet_rpg.Services.WeaponService;
 using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
 
 namespace dotnet_rpg.Controllers
 {
